@@ -23,7 +23,7 @@
   * [-] Add 1 to a number represented as linked list (https://www.geeksforgeeks.org/add-1-number-represented-linked-list/)
   * [-] Flattening a linked list (https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1)
 
-* ## Hard :
+* ### Hard :
   * LRU Cache
   * Merge K sorted linked lists
   * Sort linked list containing 0’s, 1’s and 2’s in single traversal
