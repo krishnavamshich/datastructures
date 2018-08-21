@@ -20,20 +20,20 @@
   * Given two linked lists figure out whether they’re overlapping
   * Merge two linked list to one, in alternate positions
   * Swap every two nodes in linked list
-  * Add 1 to a number represented as linked list (https://www.geeksforgeeks.org/add-1-number-represented-linked-list/)
-  * Flattening a linked list (https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1)
+  * [-] Add 1 to a number represented as linked list (https://www.geeksforgeeks.org/add-1-number-represented-linked-list/)
+  * [-] Flattening a linked list (https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1)
 
 * ## Hard :
   * LRU Cache
   * Merge K sorted linked lists
-  * Implement Stack using linked list (https://practice.geeksforgeeks.org/problems/implement-stack-using-linked-list/1)
-  * Implement Queue using linked list (https://practice.geeksforgeeks.org/problems/implement-queue-using-linked-list/1)
-  * Convert a binary tree into linked list
-  * Convert doubly linked list to balanced binary search tree
+  * [-] Implement Stack using linked list (https://practice.geeksforgeeks.org/problems/implement-stack-using-linked-list/1)
+  * [-] Implement Queue using linked list (https://practice.geeksforgeeks.org/problems/implement-queue-using-linked-list/1)
+  * [--] Convert a binary tree into linked list
+  * [--] Convert doubly linked list to balanced binary search tree
 
 
 ## Miscellaneous : 
-* Stock Buy Sell to Maximize Profit - (https://github.com/krishnavamshich/datastructures/blob/master/Stock_Buy_Sell.py)
+* [Stock Buy Sell to Maximize Profit](https://github.com/krishnavamshich/datastructures/blob/master/Stock_Buy_Sell.py)
 
 
 
